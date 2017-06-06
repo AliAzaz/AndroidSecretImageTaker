@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Secret Picture</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="settingPanel">SETTING FRAGMENT</string>
+    <string name="cameraPos">Camera Open</string>
+    <string name="time">Capturing Time</string>
+    <string name="numImg">No of Images</string>
+    <string name="save">SAVE SETTINGS</string>
+
+    <string name="storyName">The Bell Witch of Tennessee</string>
+
+    <string name="story">The story of the Bell Witch of Tennessee is one of the more famous true ghost stories in American history. The story inspired several documentaries and a major motion picture, 2005s An American Haunting. Its one of the most well-documented "true" ghost stories ever.The story of the Bell Witch first surfaced in the early 1800s, after farmer John Bell and his family moved from North Carolina to the community of Red River, Tennessee, which later became the town of Adams. As Bell amassed more and more land in the area – eventually up to 328 acres – the family started to report a variety of strange encounters. These included finding an animal that appeared to be a hybrid between a dog and a rabbit, a series of apparent hallucinations that included night terrors about rats gnawing away at the familys beds, and eventually a series of faint whispering voices that sounded almost like old women softly singing hymns.
+According to historians, family members later found a vial of an unknown liquid in the house. They gave a dose of the liquid to their cat, who immediately died.
+According to the stories, following the Battle of New Orleans, f*ture president Andrew Jackson came to the Bell Farm to investigate the stories of a haunting, and it was he who dubbed the entity "The Bell Witch." By 1820, John Bell had grown ill, and more convinced then ever that the presence in his house wished him ill. Its said that, after Bells funeral, the ghost could be heard singing and laughing loudly in the graveyard. After Bells death, save for a few reported encounters during which the entity bid the family "farewell" (what a polite spirit!), the presence seemed to largely disappear from the home.
+Boring Rational Explanation: It was rumored that the ghost had promised to return to Bells direct descendent in 107 years, which would have been 1935. Though the descendent in question - Dr. Charles Bailey Bell - wrote a book about the "Bell Witch" legend, he never mentioned having an encounter of his own.
+A book called "Our Family Trouble" also exists which was reportedly written by Richard Williams Bell - the second-youngest child of John Bell - in 1846, and includes the only known "eyewitness" account of the Bell Witch. It can currently be found in M.V. Ingrams "Authenticated History of the Bell Witch," though the book provides few sources or citations for any of its information, and thus is not terribly useful as a research tool.
+200 years after the Bell family was terrorized by the sinister Bell Witch, researchers continue to study the story, each offering different theories about the entity. (In the films fictionalized retelling, "An American Haunting," the ghost is explained by arguing that Bell sexually abused his daughter, and her repressed memories of the abuse gave rise to the titular witch.)</string>
+</resources>
