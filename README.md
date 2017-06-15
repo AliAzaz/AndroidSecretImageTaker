@@ -15,6 +15,8 @@ Android Secret Picture Taker is the extended version of Repository "android-came
 
 Take the pictures without knowing the others ones, The other one will consider that you'r reading an article but you were taking the photos. Take the pictures by click on button "CLICK HERE TO CAPTURE" or press two times Volume Down button. User can also select by which camera he want's to take the pictures FRONT or BACK, also specify the caputuring time and no of pictures he want's to taken in that time frame from setting activity. All taken images will save in the FILE MANAGER with the name of folder "SECRETCAM-IMG". Inside the folder pictures distributed in the folders, based on dates.
 
+Download apk directly through link: <https://github.com/AliAzaz/AndroidSecretImageTaker/blob/master/apk/secret-pic-taker-15.6.17.apk>
+
 ## Help
 
 If you run into issues, please don't hesitate to find help on the GitHub project.
