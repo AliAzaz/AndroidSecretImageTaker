@@ -1,15 +1,16 @@
 <resources>
-    <string name="app_name">Secret Picture</string>
-    <string name="action_settings">Settings</string>
+    <string name="app_name"> Secret Picture </string>
+    <string name="action_settings"> Settings </string>
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="settingPanel">SETTING FRAGMENT</string>
-    <string name="cameraPos">Camera Open</string>
-    <string name="time">Capturing Time</string>
-    <string name="numImg">No of Images</string>
-    <string name="save">SAVE SETTINGS</string>
+    <string name="cameraPos"> Camera Open </string>
+    <string name="time"> Capturing Time </string>
+    <string name="numImg"> No of Images </string>
+    <string name="numImgCaption"> Greater then Capturing time </string>
+    <string name="save"> SAVE SETTINGS </string>
 
-    <string name="storyName">The Bell Witch of Tennessee</string>
+    <string name="storyName"> The Bell Witch of Tennessee </string>
 
     <string name="story">The story of the Bell Witch of Tennessee is one of the more famous true ghost stories in American history. The story inspired several documentaries and a major motion picture, 2005s An American Haunting. Its one of the most well-documented "true" ghost stories ever.The story of the Bell Witch first surfaced in the early 1800s, after farmer John Bell and his family moved from North Carolina to the community of Red River, Tennessee, which later became the town of Adams. As Bell amassed more and more land in the area – eventually up to 328 acres – the family started to report a variety of strange encounters. These included finding an animal that appeared to be a hybrid between a dog and a rabbit, a series of apparent hallucinations that included night terrors about rats gnawing away at the familys beds, and eventually a series of faint whispering voices that sounded almost like old women softly singing hymns.
 According to historians, family members later found a vial of an unknown liquid in the house. They gave a dose of the liquid to their cat, who immediately died.
