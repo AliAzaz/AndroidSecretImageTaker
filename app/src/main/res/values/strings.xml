@@ -7,7 +7,7 @@
     <string name="cameraPos"> Camera Open </string>
     <string name="time"> Capturing Time </string>
     <string name="numImg"> No of Images </string>
-    <string name="numImgCaption"> Greater then Capturing time </string>
+    <string name="numImgCaption"> Lesser then Capturing time </string>
     <string name="save"> SAVE SETTINGS </string>
 
     <string name="storyName"> The Bell Witch of Tennessee </string>

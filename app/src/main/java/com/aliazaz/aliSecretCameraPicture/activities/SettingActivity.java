@@ -89,7 +89,7 @@ public class SettingActivity extends AppCompatActivity {
 
         if (Integer.parseInt(numCap.getText().toString()) > Integer.parseInt(capTime.getText().toString())) {
             Toast.makeText(this, "Invalid(data): " + getString(R.string.numImgCaption), Toast.LENGTH_SHORT).show();
-            numCap.setError("Invalid(data): Range greater then capturing time");    // Set Error on last radio button
+            numCap.setError("Invalid(data): Range less then capturing time");    // Set Error on last radio button
             return false;
         } else {
             numCap.setError(null);
